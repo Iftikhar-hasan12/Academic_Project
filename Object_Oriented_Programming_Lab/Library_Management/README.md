@@ -22,6 +22,17 @@ The system supports two interfaces: Admin and Student. Key features include issu
 - Clean and build the project in NetBeans.
 - Then, run the project — the GUI will launch and you can start using the system.
 
+
+
+![505shots_so](https://github.com/user-attachments/assets/baddd2c9-c732-4558-9fcc-232aea9dda6c)
+
+
+
+
+![717shots_so](https://github.com/user-attachments/assets/3b191bb4-bb03-4c5b-aeb3-85ea6267e564)
+
+
+
 #### 5. ⚠️ JDK Version Note
 - If you face any issues related to the **JDK version**, ensure that your JDK version matches the one used in the project.
 - You can change your JDK version in **NetBeans > Project Properties > Libraries > Java Platform**.
