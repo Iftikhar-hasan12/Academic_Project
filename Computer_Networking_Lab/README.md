@@ -59,15 +59,23 @@ All games support **two-player mode over a network**, allowing players to connec
 
 ## 📸 Screenshots (Optional)
 
-*You can add images of your game interfaces here if available.*
 
----
+![644shots_so](https://github.com/user-attachments/assets/d107931c-9b6f-447c-b76e-fcaeb763f9db)
 
-## 📬 Contact
 
-If you face any issues or have suggestions, feel free to open an **[Issue](https://github.com/yourusername/yourrepo/issues)** or reach out to me via GitHub.
+![660shots_so](https://github.com/user-attachments/assets/1769cae9-f249-42c2-a766-ed42db4f80af)
 
----
+
+![367shots_so](https://github.com/user-attachments/assets/b44af6af-f091-4720-a765-80240a218c30)
+
+
+![251shots_so](https://github.com/user-attachments/assets/8c881cf0-146b-4c84-bd24-aef300c4b8ed)
+
+
+
+![464shots_so](https://github.com/user-attachments/assets/9078aaf0-9fc1-438f-957e-f8a47d955dc3)
+
+
 
 ## ✅ Future Improvements
 
