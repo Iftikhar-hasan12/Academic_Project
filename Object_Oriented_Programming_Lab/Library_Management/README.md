@@ -22,14 +22,21 @@ The system supports two interfaces: Admin and Student. Key features include issu
 - Clean and build the project in NetBeans.
 - Then, run the project — the GUI will launch and you can start using the system.
 
+![430shots_so](https://github.com/user-attachments/assets/72fa80ec-61fd-48a8-91ac-48a04fd21558)
 
 
-![505shots_so](https://github.com/user-attachments/assets/baddd2c9-c732-4558-9fcc-232aea9dda6c)
+![263shots_so](https://github.com/user-attachments/assets/6e23db78-53d1-4d30-b2d2-df60d05b0af1)
 
 
 
+![390shots_so](https://github.com/user-attachments/assets/1bc5ef3f-6b7b-4677-ad2b-f35f7d1642d6)
 
-![717shots_so](https://github.com/user-attachments/assets/3b191bb4-bb03-4c5b-aeb3-85ea6267e564)
+![717shots_so](https://github.com/user-attachments/assets/b6920b23-fba4-4c30-b539-59f5ea66d20c)
+
+
+![505shots_so](https://github.com/user-attachments/assets/f8d0a657-c256-4a34-a312-f3668daddf56)
+
+
 
 
 
