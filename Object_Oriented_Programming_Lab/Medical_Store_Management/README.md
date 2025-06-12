@@ -1,4 +1,4 @@
-### 💊 Medical Store Management System (Java + Swing + MySQL)  
+## 💊 Medical Store Management System (Java + Swing + MySQL)  
 This is a Java-based Medical Store Management System built using Swing for GUI and MySQL for backend storage.  
 It supports an Admin interface with key features such as adding, updating, deleting, searching medicines, selling medicines, checking sell history, and viewing the full medicine list — all integrated with a MySQL database. The system dynamically retrieves and updates data via the database to ensure real-time accuracy.
 
